@@ -1,1 +1,7 @@
 what is the test code
+So you’ve set up your tool.
+Let’s resolve our first conflict that I created.
+I have two branches. Master and charan
+I created file called test.txt in both of charan
+The content of the file in master branch is master and the content in the iss1 branch is charan
+I committed those changes and now I am trying to merge iss1 into charan
